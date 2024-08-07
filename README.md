@@ -1,5 +1,5 @@
 # 💫 Francisco Marcello Ribeiro Lima
- Studying Software Engineering.<br>Looking for the first opportunity in the development area.
+ Studying Software Engineering.<br>RPA Developer at Brazil.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franciscomarcello) 
