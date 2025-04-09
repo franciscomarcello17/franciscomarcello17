@@ -1,5 +1,5 @@
 # 💫 Francisco Marcello Ribeiro Lima
- Studying Software Engineering.<br>RPA Developer at Brazil.
+ Studying Software Engineering.<br>Full Stack Developer at Brazil.
 
 ## 🌐Socials
 <p align="left">
